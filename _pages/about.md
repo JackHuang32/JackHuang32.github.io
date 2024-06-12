@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-📖 I'm an incoming Ph.D. student supervised by Prof. Aparna at [this lab](https://hpcforge.eng.uci.edu/) at University of California, Irvine .
+📖 I'm an incoming Ph.D. student supervised by Prof. Aparna in [HPC Forge](https://hpcforge.eng.uci.edu/) at University of California, Irvine .
 
 🎓 Prior to graduate school, I received my B.S in Mathematics at National Tsing Hua University, Hsinchu, Taiwan.
 
