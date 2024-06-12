@@ -21,7 +21,7 @@ repository               : "JackHuang32/KH-Huang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile.png"
   name             : "Kuei-Hsiang(Jack) Huang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
