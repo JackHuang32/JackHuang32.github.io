@@ -7,10 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-📖 I'm an incoming Ph.D. student supervised by Prof. Aparna in [HPC Forge](https://hpcforge.eng.uci.edu/) at University of California, Irvine.
+📖 I am an incoming Ph.D. student in the EECS department in University of California, Irvine, where I will be working with Prof. [Aparna](https://hpcforge.eng.uci.edu/) in [HPC Forge](https://hpcforge.eng.uci.edu/).
 
-🎓 Prior to graduate school, I received my B.S in Mathematics at National Tsing Hua University, Hsinchu, Taiwan.
+🎓 Prior to graduate school, I received my B.S in Mathematics at National Tsing Hua University, Hsinchu, Taiwan, where I was advised by Prof. [Che-Rung Lee](https://www.cs.nthu.edu.tw/~cherung/) for my undergraduate study.
 
-🔬 My research interests are Computational Science, Machine Learning and my future research focus will be on High-Performance Computing techniques in Science for AI.
+🔬 My research interests include: 
+- Computational Science
+- Machine Learning
+- High-Performance Computing
+- Science for AI.
 
 Besides academic, I love to watch and play basketball in my free time 🏀
