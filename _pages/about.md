@@ -21,4 +21,4 @@ Besides academic, I love to watch and play basketball in my free time 🏀
 
 
 **News:**
-- (5/7/2024) Our paper "[_LPSD: Low-Rank Plus Sparse Decomposition for Highly Compressed CNN Models_](https://link.springer.com/chapter/10.1007/978-981-97-2242-6_28)" has been accepted by PAKDD 2024 !!! 
+- (5/7/2024) My undergraduate research "[_LPSD: Low-Rank Plus Sparse Decomposition for Highly Compressed CNN Models_](https://link.springer.com/chapter/10.1007/978-981-97-2242-6_28)" has been accepted by PAKDD 2024 !!! 
