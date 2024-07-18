@@ -15,7 +15,7 @@ redirect_from:
 - Computational Science
 - Machine Learning
 - High-Performance Computing
-- Science for AI.
+- AI for Science.
 
 Besides academic, I love to watch and play basketball in my free time 🏀
 
