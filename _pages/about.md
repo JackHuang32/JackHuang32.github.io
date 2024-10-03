@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-📖 I a first year Ph.D. student in the [EECS department](https://engineering.uci.edu/dept/eecs) in University of California, Irvine, I am currently working on Domain Decomposed Neural Operators for PDEs with Prof. [Aparna Chandramowlishwaran](https://engineering.uci.edu/users/aparna-chandramowlishwaran) in [HPC Forge](https://hpcforge.eng.uci.edu/).
+📖 I am a first year Ph.D. student in the [EECS department](https://engineering.uci.edu/dept/eecs) in University of California, Irvine, I am currently working on Domain Decomposed Neural Operators for PDEs with Prof. [Aparna Chandramowlishwaran](https://engineering.uci.edu/users/aparna-chandramowlishwaran) in [HPC Forge](https://hpcforge.eng.uci.edu/).
 
 🎓 Prior to graduate school, I received my B.S in Mathematics at National Tsing Hua University, Hsinchu, Taiwan, where I was advised by Prof. [Che-Rung Lee](https://www.cs.nthu.edu.tw/~cherung/) for my undergraduate study.
 
