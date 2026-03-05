@@ -21,7 +21,7 @@ repository               : "JackHuang32/KH-Huang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "DSC00555.JPG"
   name             : "Kuei-Hsiang(Jack) Huang"
   pronouns         : # example: "she/her"  
   bio              : "HPC for SciML"
